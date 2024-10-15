@@ -18,13 +18,6 @@ This is a simple text-based battle game where you control a hero and fight again
 3. Continue until either the hero or the enemy is defeated.
 4. Victory or defeat will be displayed at the end of the battle.
 
-### How to Run
-
-1. Clone this repository or download the script.
-2. Open a terminal/command prompt.
-3. Navigate to the directory containing the script.
-4. Run the command: `python game_script.py`
-
 ### Future Enhancements
 
 - Additional character classes
@@ -53,13 +46,6 @@ Este é um jogo simples de batalha baseado em texto onde você controla um heró
 2. Quando solicitado, escolha entre um ataque normal ou um ataque especial.
 3. Continue até que o herói ou o inimigo sejam derrotados.
 4. A vitória ou derrota será exibida ao final da batalha.
-
-### Como Executar
-
-1. Clone este repositório ou baixe o script.
-2. Abra um terminal/linha de comando.
-3. Navegue até o diretório que contém o script.
-4. Execute o comando: `python game_script.py`
 
 ### Melhorias Futuras
 
